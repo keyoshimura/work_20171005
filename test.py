@@ -1,4 +1,3 @@
-# C³‚µ‚Ä‚İ‚½‚æ
 # coding:utf-8
 print('hello world')
 
